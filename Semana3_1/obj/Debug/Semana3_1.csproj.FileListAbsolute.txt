@@ -1,0 +1,14 @@
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\bin\Debug\Semana3_1.exe.config
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\bin\Debug\Semana3_1.exe
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\bin\Debug\Semana3_1.pdb
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\obj\Debug\Semana3_1.csprojAssemblyReference.cache
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\obj\Debug\Semana3_1.csproj.CoreCompileInputs.cache
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\obj\Debug\Semana3_1.exe
+C:\Users\23266393-2\source\repos\Semana3_1\Semana3_1\obj\Debug\Semana3_1.pdb
+C:\Users\Jonathan\Downloads\Semana3_1\bin\Debug\Semana3_1.exe.config
+C:\Users\Jonathan\Downloads\Semana3_1\bin\Debug\Semana3_1.exe
+C:\Users\Jonathan\Downloads\Semana3_1\bin\Debug\Semana3_1.pdb
+C:\Users\Jonathan\Downloads\Semana3_1\obj\Debug\Semana3_1.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Downloads\Semana3_1\obj\Debug\Semana3_1.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Downloads\Semana3_1\obj\Debug\Semana3_1.exe
+C:\Users\Jonathan\Downloads\Semana3_1\obj\Debug\Semana3_1.pdb
